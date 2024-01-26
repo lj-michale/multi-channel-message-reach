@@ -1,13 +1,13 @@
 # 多渠道消息触达平台
 详细安装教程：https://blog.csdn.net/weixin_52097397/article/details/135738516?csdn_share_tail=%7B%22type%22%3A%22blog%22%2C%22rType%22%3A%22article%22%2C%22rId%22%3A%22135738516%22%2C%22source%22%3A%22weixin_52097397%22%7D
-觉得不错就给个`Star`吧please~
+觉得不错就给个`Star`吧~
 # 介绍
 多渠道消息触达平台是一个为应用开发者提供服务的平台，旨在解决发送消息的需求。
 通过与消息触达平台的接口对接，开发者无需自行编写发送消息的代码，从而实现业务逻辑代码和发送消息逻辑代码的解耦。
 能够让开发者能够更加专注于核心业务开发，提高开发效率，并且实现了消息发送的统一管理和多渠道的灵活选择。
 项目视频演示地址：https://www.bilibili.com/video/BV1Uk4y1S7hR/?vd_source=ea9d3688c968ba55be79c5ce3dc1c5fc
 
-github地址：https://github.com/Manzzx/multi-channel-message-reach/tree/master
+Gitee地址：https://gitee.com/hanabizzx/multi-channel-message-reach
 
 # 项目特性
 多渠道消息触达平台具有以下特性：
@@ -65,31 +65,31 @@ github地址：https://github.com/Manzzx/multi-channel-message-reach/tree/master
 
 <table>
     <tr>
-        <td><img src="https://gitee.com/hanabizzx/multi-channel-message-push/raw/master/doc/imgs/%E9%A6%96%E9%A1%B5.png"/></td>
-        <td><img src="https://gitee.com/hanabizzx/multi-channel-message-push/raw/master/doc/imgs/0.png"/></td>
+        <td><img src="https://github.com/Manzzx/multi-channel-message-reach/blob/master/doc/imgs/%E9%A6%96%E9%A1%B5.png"/></td>
+        <td><img src="https://github.com/Manzzx/multi-channel-message-reach/blob/master/doc/imgs/0.png"/></td>
     </tr>
     <tr>
-        <td><img src="https://gitee.com/hanabizzx/multi-channel-message-push/raw/master/doc/imgs/1.png"/></td>
-        <td><img src="https://gitee.com/hanabizzx/multi-channel-message-push/raw/master/doc/imgs/2.png"/></td>
+        <td><img src="https://github.com/Manzzx/multi-channel-message-reach/blob/master/doc/imgs/1.png"/></td>
+        <td><img src="https://github.com/Manzzx/multi-channel-message-reach/blob/master/doc/imgs/2.png"/></td>
     </tr>
     <tr>
-        <td><img src="https://gitee.com/hanabizzx/multi-channel-message-push/raw/master/doc/imgs/10.png"/></td>
-        <td><img src="https://gitee.com/hanabizzx/multi-channel-message-push/raw/master/doc/imgs/11.png"/></td>
+        <td><img src="https://github.com/Manzzx/multi-channel-message-reach/blob/master/doc/imgs/10.png"/></td>
+        <td><img src="https://github.com/Manzzx/multi-channel-message-reach/blob/master/doc/imgs/11.png"/></td>
     </tr>
     <tr>
-        <td><img src="https://gitee.com/hanabizzx/multi-channel-message-push/raw/master/doc/imgs/3.jpg"/></td>
-        <td><img src="https://gitee.com/hanabizzx/multi-channel-message-push/raw/master/doc/imgs/4.png"/></td>
+        <td><img src="https://github.com/Manzzx/multi-channel-message-reach/blob/master/doc/imgs/3.jpg"/></td>
+        <td><img src="https://github.com/Manzzx/multi-channel-message-reach/blob/master/doc/imgs/4.png"/></td>
     </tr>
      <tr>
-        <td><img src="https://gitee.com/hanabizzx/multi-channel-message-push/raw/master/doc/imgs/5.jpg"/></td>
-        <td><img src="https://gitee.com/hanabizzx/multi-channel-message-push/raw/master/doc/imgs/6.png"/></td>
+        <td><img src="https://github.com/Manzzx/multi-channel-message-reach/blob/master/doc/imgs/5.jpg"/></td>
+        <td><img src="https://github.com/Manzzx/multi-channel-message-reach/blob/master/doc/imgs/6.png"/></td>
     </tr>
      <tr>
-        <td><img src="https://gitee.com/hanabizzx/multi-channel-message-push/raw/master/doc/imgs/7.png"/></td>
-        <td><img src="https://gitee.com/hanabizzx/multi-channel-message-push/raw/master/doc/imgs/8.png"/></td>
+        <td><img src="https://github.com/Manzzx/multi-channel-message-reach/blob/master/doc/imgs/7.png"/></td>
+        <td><img src="https://github.com/Manzzx/multi-channel-message-reach/blob/master/doc/imgs/8.png"/></td>
     </tr>
      <tr>
-        <td><img src="https://gitee.com/hanabizzx/multi-channel-message-push/raw/master/doc/imgs/9.jpg"/></td>
+        <td><img src="https://github.com/Manzzx/multi-channel-message-reach/blob/master/doc/imgs/9.jpg"/></td>
     </tr>
 	
 </table>
